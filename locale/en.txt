@@ -1,0 +1,206 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Grane Mill, Haslingden
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Description
+album_3C4AF377_1265_6432_4181_A30A6736AE86_1.description = Tacklers benches decorated for celebrations. The two biggest of note were the coronation of king George V in 1911, and the 21 year anniversary of the company in 1928
+album_3C4AF377_1265_6432_4181_A30A6736AE86_10.description = The football team of 1934, presented outside the despatch door next to the Mill Manager’s Office and Board Room. \
+ \
+
+album_3C4AF377_1265_6432_4181_A30A6736AE86_12.description = This photo was taken just before the Great War (1914 - 1918). It shows thousands of warp ends being wound off creel bobbins onto warpers beams, ready for tape sizing onto weavers beams ready for looming. \
+ \
+
+album_3C4AF377_1265_6432_4181_A30A6736AE86_15.description = 1979 and the end of production. The photo shows some dobby looms for complex weaves. 
+album_3C4AF377_1265_6432_4181_A30A6736AE86_18.description = This photo was taken sometime in the 1950s, showing weaving on Willan and Mills roller-top undertwill looms.
+album_3C4AF377_1265_6432_4181_A30A6736AE86_19.description = This photo was taken some time in the 1960s. The people of Grane Mill still like a party.
+album_3C4AF377_1265_6432_4181_A30A6736AE86_2.description = 1928 - Grane Mill hits 21, and comes of age. This is the winding room team.
+album_3C4AF377_1265_6432_4181_A30A6736AE86_5.description = The weavers celebrate the coronation of king George V in 1911
+album_3C4AF377_1265_6432_4181_A30A6736AE86_8.description = Experienced Drawers-in sitting at their looming frames each assisted by a young Reacher-in (standing).
+album_3E4205D4_1265_6C76_4131_324008D440C0_0.description = Aerial shot of Grane Mill, c.2020, showing chimney, engine house and remaining warehouse building.
+album_3E4205D4_1265_6C76_4131_324008D440C0_1.description = The chimney and general office, seen from the yard, against a night sky.
+album_3E4205D4_1265_6C76_4131_324008D440C0_2.description = The chimney-top, seen from the yard c. 2020
+album_3E4205D4_1265_6C76_4131_324008D440C0_3.description = The general office clock, seen from the yard, c. 2020
+album_3E4205D4_1265_6C76_4131_324008D440C0_4.description = The engine house, seen from the warehouse roof, c 2020
+album_3E4205D4_1265_6C76_4131_324008D440C0_5.description = The engine house, seen from the warehouse roof c. 2020
+album_3E4205D4_1265_6C76_4131_324008D440C0_6.description = Aerial shot of Grane Mill warehouse c. 2020, showing north lights
+album_3E4205D4_1265_6C76_4131_324008D440C0_7.description = Aerial shot of Grane Mill warehouse c. 2020, showing north lights
+album_3E4205D4_1265_6C76_4131_324008D440C0_8.description = The warehouse north lights, detail c. 2020
+album_3EEC679F_123E_ECF2_4168_36860EB5422D_0.description = A Perpetual Desk Calendar, advertising the capability of the Grane Manufacturing Co Ltd., its cloths, looms and canteen facilities. 
+album_3EEC679F_123E_ECF2_4168_36860EB5422D_1.description = Directors of the Grane Manufacturing Co. Ltd., in 1928
+album_3EEC679F_123E_ECF2_4168_36860EB5422D_2.description = 'Presented to Mr Alexander Fearful, by the directors and shareholders, The Grane Manufacturing Co, Ltd. In appreciation of 50 years service as a director of the company.'
+album_3EEC679F_123E_ECF2_4168_36860EB5422D_3.description = A wartime order on 20 Dec 1940 for very fine warps, 4438 ends in 42 count yarn of 10875 yds (circa 6 miles) length. That would have kept 12 looms fully occupied for a month. \
+While the fibre is not stated, if rayon, this would have made a  lot of parachutes!   \
+
+album_3EEC679F_123E_ECF2_4168_36860EB5422D_4.description = The general office, in the 1920s - gas lit.
+album_3F0B16B5_123D_AC36_417D_55A0A2756E22_0.description = This is the engine as it was in the 1930s - with engine tenter Billy Talbot, and fire-beater Jim Jacks.
+album_3F0B16B5_123D_AC36_417D_55A0A2756E22_1.description = 1974. Engineer Harry Swindell is custodian of this beautful engine.
+album_3F0B16B5_123D_AC36_417D_55A0A2756E22_2.description = 1907 - these men have just completed the commissioning of the new engine.
+album_EDEE676B_F2EE_AC52_41ED_15BED30695FA_0.description = Here's an exerpt from Jamieson's Elementary Manual on Heat Engines - showing the hot gas flow.
+album_EDEE676B_F2EE_AC52_41ED_15BED30695FA_1.description = Here's a Lancashire boiler tank. The furnaces are at the front, and the firetube runs through to an opening in the back. The brick wall around the tank then forms the rest of the flue, guiding the hot gasses around the bottom and sides of the tank.
+album_EDEE676B_F2EE_AC52_41ED_15BED30695FA_2.description = An engineering drawing, showing a tapering fire tube to funnel and speed the flow of the hot gasses.
+photo_56F8BE4D_121D_9C56_4183_01538200D831.description = The Grane Mill weavers are seen here, working on 1880's Willan and Mill looms. The looms were already 20 years old when they were moved from Heap Clough Mill to the new mill at Longshoot, which means they wove cloth for over 100 years continuously. That means about a million miles of cloth!
+photo_56F8BE4D_121D_9C56_4183_01538200D831.description = The Grane Mill weavers are seen here, working on 1880's Willan and Mill looms. The looms were already 20 years old when they were moved from Heap Clough Mill to the new mill at Longshoot, which means they wove cloth for over 100 years continuously. That means about a million miles of cloth!
+photo_B1071764_0FE6_AC56_4170_24395A5C7D1E.description = Cutaway drawing, showing  how the brick walls make up the flue.
+photo_B1071764_0FE6_AC56_4170_24395A5C7D1E.description = Cutaway drawing, showing  how the brick walls make up the flue.
+photo_E0ABAB4D_F2ED_A456_41E8_9EAD1830CF34.description = This example of a Lancashire boiler can be found at the Queen Street Mill, Burnley, UK. Image attribution: Clem Rutter, Wikimedia Commons
+photo_E0ABAB4D_F2ED_A456_41E8_9EAD1830CF34.description = This example of a Lancashire boiler can be found at the Queen Street Mill, Burnley, UK. Image attribution: Clem Rutter, Wikimedia Commons
+
+### Subtitle
+album_3EEC679F_123E_ECF2_4168_36860EB5422D.subtitle = Placed centrally in the mill, the office saw everything; people and goods as they came in and out. The mill was a thriving community for all that. Everyone stayed; it wasn't unusual for somone to spend their whole working life here.
+
+### Title
+album_3C4AF377_1265_6432_4181_A30A6736AE86.label = Weavers
+album_3C4AF377_1265_6432_4181_A30A6736AE86_1.label = Grane Mill: 1911 and 1928 celebrations
+album_3C4AF377_1265_6432_4181_A30A6736AE86_10.label = Grane Mill: Football team
+album_3C4AF377_1265_6432_4181_A30A6736AE86_12.label = Grane Mill: Beaming Department
+album_3C4AF377_1265_6432_4181_A30A6736AE86_15.label = Grane Mill: Woven out
+album_3C4AF377_1265_6432_4181_A30A6736AE86_18.label = Grane Mill: Weaving shed
+album_3C4AF377_1265_6432_4181_A30A6736AE86_19.label = Grane Mill: Celebrations
+album_3C4AF377_1265_6432_4181_A30A6736AE86_2.label = Grane Mill: Celebrations
+album_3C4AF377_1265_6432_4181_A30A6736AE86_5.label = Grane Mill: Celebrations
+album_3C4AF377_1265_6432_4181_A30A6736AE86_8.label = Grane Mill: Drawers-in
+album_3E4205D4_1265_6C76_4131_324008D440C0.label = Buildings
+album_3E4205D4_1265_6C76_4131_324008D440C0_0.label = Grane Mill: Aerial
+album_3E4205D4_1265_6C76_4131_324008D440C0_1.label = Grane Mill
+album_3E4205D4_1265_6C76_4131_324008D440C0_2.label = Grane Mill: Chimney
+album_3E4205D4_1265_6C76_4131_324008D440C0_3.label = Grane Mill: Clock
+album_3E4205D4_1265_6C76_4131_324008D440C0_4.label = Grane Mill: Engine house
+album_3E4205D4_1265_6C76_4131_324008D440C0_5.label = Grane Mill: Engine House
+album_3E4205D4_1265_6C76_4131_324008D440C0_6.label = Grane Mill: Aerial
+album_3E4205D4_1265_6C76_4131_324008D440C0_7.label = Grane Mill: Aerial
+album_3E4205D4_1265_6C76_4131_324008D440C0_8.label = Grane Mill: Warehouse
+album_3EEC679F_123E_ECF2_4168_36860EB5422D.label = The Office
+album_3EEC679F_123E_ECF2_4168_36860EB5422D_0.label = Grane Mill: Perpetual Desk Calendar
+album_3EEC679F_123E_ECF2_4168_36860EB5422D_1.label = Grane Mill: Directors, 1928
+album_3EEC679F_123E_ECF2_4168_36860EB5422D_2.label = Grane Mill: Mr Fearful's pocket watch
+album_3EEC679F_123E_ECF2_4168_36860EB5422D_3.label = Grane Mill: Order: 1940 
+album_3EEC679F_123E_ECF2_4168_36860EB5422D_4.label = Grane Mill: General Office
+album_3F0B16B5_123D_AC36_417D_55A0A2756E22.label = Enginers
+album_3F0B16B5_123D_AC36_417D_55A0A2756E22_0.label = Grane Mill, Stott Engine: 1930
+album_3F0B16B5_123D_AC36_417D_55A0A2756E22_1.label = Grane Mill: Stott Engine, 1974
+album_3F0B16B5_123D_AC36_417D_55A0A2756E22_2.label = Grane Mill: Stott Engine Commissioning
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74.label = Intro
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_1.label = Grane Mill, 2020
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_10.label = Grane Mill: Weavers, c 1920
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_11.label = Grane Mill, Stott Engine., c 1929
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_12.label = Grane Mill: Stott Engine,  2020
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_13.label = Grane Mill: Lancashire boiler arrival, 1911
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_2.label = Grane Mill: Chimney, 2020
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_3.label = Grane Mill, 2020
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_4.label = Grane Mill in the 30's
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_5.label = Grane Mill: Loom undergoing restoration
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_6.label = Grane Mill, Directors, 1928
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_7.label = Drawers-in: Grane Mill in the 20's
+album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_9.label = Grane Mill, Harry Swindell, 1970's
+album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4.label = Cuttings
+album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4_0.label = Cuttings: Pinboard
+album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4_1.label = Cuttings: Alice and Hilda retire
+album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4_2.label = Cuttings: Grane Mill
+album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4_3.label = Cuttings: Advertisement
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C.label = Detail
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_1.label = Detail: Alice
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_10.label = Detail: Alice connecting rod 2
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_12.label = Detail: Pressure gauges
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_2.label = Detail: Alice 2
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_3.label = Detail: Alice connecting rod 2
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_4.label = Detail: Flywheel: Alice's side
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_5.label = Detail: Governor
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_6.label = Detail: Flywheel: Alice's side
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_7.label = Detail: Flywheel positioning
+album_A49F69E1_AFBC_D252_41DD_C95F61A2DD7F.label = Chimney
+album_A49F69E1_AFBC_D252_41DD_C95F61A2DD7F_0.label = Chimney: Plaque
+album_A49F69E1_AFBC_D252_41DD_C95F61A2DD7F_5.label = Chimney: With water tank
+album_A54C046F_AFA4_322E_41D7_1580C502E962.label = Condenser
+album_A54C046F_AFA4_322E_41D7_1580C502E962_0.label = Condenser 1
+album_A54C046F_AFA4_322E_41D7_1580C502E962_1.label = Condenser 2
+album_A54C046F_AFA4_322E_41D7_1580C502E962_2.label = Condenser 3
+album_A54C046F_AFA4_322E_41D7_1580C502E962_3.label = Condenser 4
+album_A54C046F_AFA4_322E_41D7_1580C502E962_4.label = Condenser 5
+album_E39C0305_F23A_A5D6_41C4_6C1F38372AD6.label = Photo Album LancashireBoiler
+album_EDEE676B_F2EE_AC52_41ED_15BED30695FA.label = Lancashire Boiler
+album_EDEE676B_F2EE_AC52_41ED_15BED30695FA_0.label = Jamieson
+album_EDEE676B_F2EE_AC52_41ED_15BED30695FA_1.label = LancashireBoiler
+album_EDEE676B_F2EE_AC52_41ED_15BED30695FA_2.label = Lancashire boiler engineering drawing
+album_FC990E82_CF50_E6FE_41B2_97983DA64C1A.label = SS Stott Engine Drawings
+album_FC990E82_CF50_E6FE_41B2_97983DA64C1A_0.label = ss_stott_engine_cylinder_end_elev_1906
+album_FC990E82_CF50_E6FE_41B2_97983DA64C1A_1.label = ss_stott_high_pressure_valve_gear_machine_shop_production_drawing_1906
+album_FC990E82_CF50_E6FE_41B2_97983DA64C1A_2.label = ss_stott_machine_shop_production_drawing_high_pressure_cylinder_valve_dashpot_1906
+album_FC990E82_CF50_E6FE_41B2_97983DA64C1A_3.label = grane_mill_haslingden_ground_floor_construction_plan_1906
+album_FC990E82_CF50_E6FE_41B2_97983DA64C1A_4.label = ss_stott_engine_general_arrangement_drawing_1906
+album_FC990E82_CF50_E6FE_41B2_97983DA64C1A_5.label = ss_stott_engine_general_arrangment_plan_1906
+album_FC990E82_CF50_E6FE_41B2_97983DA64C1A_6.label = ss_stott_lp_cylinder_condenser_and_bed_drawing_1906
+album_FC990E82_CF50_E6FE_41B2_97983DA64C1A_7.label = ss_stott_hp_cyclinder_and_governor_drawing_1906
+album_FCAEA15B_CFB1_3A0E_41C8_A9EA2DECAD24.label = Loom
+album_FCAEA15B_CFB1_3A0E_41C8_A9EA2DECAD24_0.label = Loom: 1
+album_FCAEA15B_CFB1_3A0E_41C8_A9EA2DECAD24_1.label = Loom: 2
+album_FCAEA15B_CFB1_3A0E_41C8_A9EA2DECAD24_2.label = Loom: 3
+panorama_A4B7C70F_ADDF_DFCE_41D7_6C123AA2B386.label = Alice and Hilda
+panorama_A4B82C29_ADDE_51F2_41D6_D025F05E4DE8.label = Hilda: High pressure piston
+panorama_A4B84DF2_ADDE_5256_41DB_BB66E002FB5A.label = Flywheel: Starting motor
+panorama_A4B86200_ADDE_51B2_41D2_7BA72A855AC7.label = Hilda: Connecting rod
+panorama_A4B89035_ADDE_D1D2_41CD_FB9236D8409B.label = Main steam control
+panorama_A4B89101_ADDE_73B2_41CD_19EA7F225641.label = Condenser
+panorama_A4B89641_ADDE_B1B2_41D8_4F280ACC437B.label = Hilda
+panorama_A4B8B412_ADDE_F1D6_41D3_1EA12AFAF76B.label = Flywheel and governor: detail
+panorama_A4B8CA1A_ADDE_D1D6_41B9_CE42D1E3B1EC.label = Flywheel and governor
+panorama_A4B95B4E_ADDF_F64E_41DB_C73ECD5C1547.label = Alice: Low pressure piston
+panorama_A4B98125_ADDF_F3F2_41B4_B4DC8BF63512.label = Alice
+panorama_A4B98543_ADDF_D3B6_41C0_5C4C52E34B04.label = Alice: Connecting rod
+panorama_A4B98921_ADDF_B3F2_41D5_4A28BCA469EF.label = Alice: Companionway
+panorama_A4B9B349_ADDE_57B2_41BD_9320FDED84F5.label = Alternating Generator, Main loom wheel
+panorama_A4B9B81C_ADDE_71D2_41D2_982153C5C71B.label = Entrance: Economiser
+panorama_A4B9BF29_ADDF_CFF2_41D4_D5D41A02678A.label = Alice: Flywheel
+panorama_A74FA71B_ADDE_5FD6_4170_97CD3BB38A0E.label = Engine House
+photo_405D4A3B_12E5_A432_4190_B3A0FBDB948A.label = Newspaper, 1928
+photo_405D4A3B_12E5_A432_4190_B3A0FBDB948A.label = Newspaper, 1928
+photo_56F8BE4D_121D_9C56_4183_01538200D831.label = Grane Mill: Weavers
+photo_56F8BE4D_121D_9C56_4183_01538200D831.label = Grane Mill: Weavers
+photo_79EF11AD_1625_A4D6_41A0_A31A0072BB51.label = Grane Mill: Stott commissioning engineers, 1907
+photo_79EF11AD_1625_A4D6_41A0_A31A0072BB51.label = Grane Mill: Stott commissioning engineers, 1907
+photo_7CA88FAB_15ED_9CD2_41A1_16B6174862EB.label = Detail: Flywheel
+photo_7CA88FAB_15ED_9CD2_41A1_16B6174862EB.label = Detail: Flywheel
+photo_7CAD638E_15ED_64D2_419A_A65152F2FBF7.label = The engine, c.1969
+photo_7CAD638E_15ED_64D2_419A_A65152F2FBF7.label = The engine, c.1969
+photo_7D149654_15ED_AC76_418A_D6E79892B531.label = Detail: Flywheel: Hilda's side
+photo_7D149654_15ED_AC76_418A_D6E79892B531.label = Detail: Flywheel: Hilda's side
+photo_7EA2BC45_15ED_7C56_41A6_6BA31FBDCD58.label = The engine, c.1929
+photo_7EA2BC45_15ED_7C56_41A6_6BA31FBDCD58.label = The engine, c.1929
+photo_A168C5CE_AFE4_326F_41DC_B534EC6DCBC2.label = Detail: Main control
+photo_A168C5CE_AFE4_326F_41DC_B534EC6DCBC2.label = Detail: Main control
+photo_B1071764_0FE6_AC56_4170_24395A5C7D1E.label = Lancashire Boiler Section
+photo_B1071764_0FE6_AC56_4170_24395A5C7D1E.label = Lancashire Boiler Section
+photo_C4C46303_D705_1B52_41E0_D010369952EA.label = The S.S. Stott Horizontal Cross-compound Condensing Engine
+photo_C4C46303_D705_1B52_41E0_D010369952EA.label = The S.S. Stott Horizontal Cross-compound Condensing Engine
+photo_E069E365_F2E7_6456_41C4_E54C3232D3E4.label = Lancashire_boiler_Jamieson_Elementary_Manual_on_Heat_Engines
+photo_E0ABAB4D_F2ED_A456_41E8_9EAD1830CF34.label = Lancashire boiler example: Queen Street Mill
+photo_E0ABAB4D_F2ED_A456_41E8_9EAD1830CF34.label = Lancashire boiler example: Queen Street Mill
+photo_E20F9287_F22B_A4D2_41CB_4A082E20EAB1.label = Lancashire boiler arrival at Grane Mill 1906
+photo_E20F9287_F22B_A4D2_41CB_4A082E20EAB1.label = Lancashire boiler arrival at Grane Mill 1906
+photo_E3945812_F22B_A3F2_41DC_FB297CCC2DC1.label = Grane Mill: Lancashire boiler firing
+photo_E3945812_F22B_A3F2_41DC_FB297CCC2DC1.label = Grane Mill: Lancashire boiler firing
+photo_E39479FE_F22B_A432_41E8_4A773ACBBE1E.label = Yates and Thom: Brochure
+photo_E39479FE_F22B_A432_41E8_4A773ACBBE1E.label = Yates and Thom: Brochure
+
+## Action
+
+### URL
+LinkBehaviour_C45E3F1B_D260_38E6_41D6_EA5CC84CF122.source = https://heritagetrustnorthwest.org/
+LinkBehaviour_CAD96CF0_D260_7922_41CD_5D06AA834480.source = https://www.rescuestation.org/
+LinkBehaviour_CF0EA55C_D2E0_2B62_41E2_91923C054638.source = https://play.google.com/store/apps/details?id=com.google.android.youtube#
+LinkBehaviour_DFBF7EC7_F22D_BC52_41C9_B1135A3830E1.source = https://apps.apple.com/gb/app/youtube-watch-listen-stream/id544007664#
+PopupWebFrameBehaviour_607CEDEB_5E07_DE9D_41D0_A2B676A618EA.url = //www.youtube.com/embed/rIrDT3iUivs?start=33
+PopupWebFrameBehaviour_62C1343D_5E07_CDF5_41CF_C4DCA392C32D.url = //www.youtube.com/embed/rIrDT3iUivs?start=33
+PopupWebFrameBehaviour_6D37B528_5E04_CF9B_41D2_CCFA0C8C0D54.url = //www.youtube.com/embed/rIrDT3iUivs?start=33

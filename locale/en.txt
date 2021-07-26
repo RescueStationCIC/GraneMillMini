@@ -16,19 +16,6 @@ IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
 ## Media
 
 ### Description
-album_3C4AF377_1265_6432_4181_A30A6736AE86_1.description = Tacklers benches decorated for celebrations. The two biggest of note were the coronation of king George V in 1911, and the 21 year anniversary of the company in 1928
-album_3C4AF377_1265_6432_4181_A30A6736AE86_10.description = The football team of 1934, presented outside the despatch door next to the Mill Manager’s Office and Board Room. \
- \
-
-album_3C4AF377_1265_6432_4181_A30A6736AE86_12.description = This photo was taken just before the Great War (1914 - 1918). It shows thousands of warp ends being wound off creel bobbins onto warpers beams, ready for tape sizing onto weavers beams ready for looming. \
- \
-
-album_3C4AF377_1265_6432_4181_A30A6736AE86_15.description = 1979 and the end of production. The photo shows some dobby looms for complex weaves. 
-album_3C4AF377_1265_6432_4181_A30A6736AE86_18.description = This photo was taken sometime in the 1950s, showing weaving on Willan and Mills roller-top undertwill looms.
-album_3C4AF377_1265_6432_4181_A30A6736AE86_19.description = This photo was taken some time in the 1960s. The people of Grane Mill still like a party.
-album_3C4AF377_1265_6432_4181_A30A6736AE86_2.description = 1928 - Grane Mill hits 21, and comes of age. This is the winding room team.
-album_3C4AF377_1265_6432_4181_A30A6736AE86_5.description = The weavers celebrate the coronation of king George V in 1911
-album_3C4AF377_1265_6432_4181_A30A6736AE86_8.description = Experienced Drawers-in sitting at their looming frames each assisted by a young Reacher-in (standing).
 album_3E4205D4_1265_6C76_4131_324008D440C0_0.description = Aerial shot of Grane Mill, c.2020, showing chimney, engine house and remaining warehouse building.
 album_3E4205D4_1265_6C76_4131_324008D440C0_1.description = The chimney and general office, seen from the yard, against a night sky.
 album_3E4205D4_1265_6C76_4131_324008D440C0_2.description = The chimney-top, seen from the yard c. 2020
@@ -45,14 +32,9 @@ album_3EEC679F_123E_ECF2_4168_36860EB5422D_3.description = A wartime order on 20
 While the fibre is not stated, if rayon, this would have made a  lot of parachutes!   \
 
 album_3EEC679F_123E_ECF2_4168_36860EB5422D_4.description = The general office, in the 1920s - gas lit.
-album_3F0B16B5_123D_AC36_417D_55A0A2756E22_0.description = This is the engine as it was in the 1930s - with engine tenter Billy Talbot, and fire-beater Jim Jacks.
-album_3F0B16B5_123D_AC36_417D_55A0A2756E22_1.description = 1974. Engineer Harry Swindell is custodian of this beautful engine.
-album_3F0B16B5_123D_AC36_417D_55A0A2756E22_2.description = 1907 - these men have just completed the commissioning of the new engine.
 album_EDEE676B_F2EE_AC52_41ED_15BED30695FA_0.description = Here's an exerpt from Jamieson's Elementary Manual on Heat Engines - showing the hot gas flow.
 album_EDEE676B_F2EE_AC52_41ED_15BED30695FA_1.description = Here's a Lancashire boiler tank. The furnaces are at the front, and the firetube runs through to an opening in the back. The brick wall around the tank then forms the rest of the flue, guiding the hot gasses around the bottom and sides of the tank.
 album_EDEE676B_F2EE_AC52_41ED_15BED30695FA_2.description = An engineering drawing, showing a tapering fire tube to funnel and speed the flow of the hot gasses.
-photo_56F8BE4D_121D_9C56_4183_01538200D831.description = The Grane Mill weavers are seen here, working on 1880's Willan and Mill looms. The looms were already 20 years old when they were moved from Heap Clough Mill to the new mill at Longshoot, which means they wove cloth for over 100 years continuously. That means about a million miles of cloth!
-photo_56F8BE4D_121D_9C56_4183_01538200D831.description = The Grane Mill weavers are seen here, working on 1880's Willan and Mill looms. The looms were already 20 years old when they were moved from Heap Clough Mill to the new mill at Longshoot, which means they wove cloth for over 100 years continuously. That means about a million miles of cloth!
 photo_B1071764_0FE6_AC56_4170_24395A5C7D1E.description = Cutaway drawing, showing  how the brick walls make up the flue.
 photo_B1071764_0FE6_AC56_4170_24395A5C7D1E.description = Cutaway drawing, showing  how the brick walls make up the flue.
 photo_E0ABAB4D_F2ED_A456_41E8_9EAD1830CF34.description = This example of a Lancashire boiler can be found at the Queen Street Mill, Burnley, UK. Image attribution: Clem Rutter, Wikimedia Commons
@@ -62,16 +44,6 @@ photo_E0ABAB4D_F2ED_A456_41E8_9EAD1830CF34.description = This example of a Lanca
 album_3EEC679F_123E_ECF2_4168_36860EB5422D.subtitle = Placed centrally in the mill, the office saw everything; people and goods as they came in and out. The mill was a thriving community for all that. Everyone stayed; it wasn't unusual for somone to spend their whole working life here.
 
 ### Title
-album_3C4AF377_1265_6432_4181_A30A6736AE86.label = Weavers
-album_3C4AF377_1265_6432_4181_A30A6736AE86_1.label = Grane Mill: 1911 and 1928 celebrations
-album_3C4AF377_1265_6432_4181_A30A6736AE86_10.label = Grane Mill: Football team
-album_3C4AF377_1265_6432_4181_A30A6736AE86_12.label = Grane Mill: Beaming Department
-album_3C4AF377_1265_6432_4181_A30A6736AE86_15.label = Grane Mill: Woven out
-album_3C4AF377_1265_6432_4181_A30A6736AE86_18.label = Grane Mill: Weaving shed
-album_3C4AF377_1265_6432_4181_A30A6736AE86_19.label = Grane Mill: Celebrations
-album_3C4AF377_1265_6432_4181_A30A6736AE86_2.label = Grane Mill: Celebrations
-album_3C4AF377_1265_6432_4181_A30A6736AE86_5.label = Grane Mill: Celebrations
-album_3C4AF377_1265_6432_4181_A30A6736AE86_8.label = Grane Mill: Drawers-in
 album_3E4205D4_1265_6C76_4131_324008D440C0.label = Buildings
 album_3E4205D4_1265_6C76_4131_324008D440C0_0.label = Grane Mill: Aerial
 album_3E4205D4_1265_6C76_4131_324008D440C0_1.label = Grane Mill
@@ -88,23 +60,6 @@ album_3EEC679F_123E_ECF2_4168_36860EB5422D_1.label = Grane Mill: Directors, 1928
 album_3EEC679F_123E_ECF2_4168_36860EB5422D_2.label = Grane Mill: Mr Fearful's pocket watch
 album_3EEC679F_123E_ECF2_4168_36860EB5422D_3.label = Grane Mill: Order: 1940 
 album_3EEC679F_123E_ECF2_4168_36860EB5422D_4.label = Grane Mill: General Office
-album_3F0B16B5_123D_AC36_417D_55A0A2756E22.label = Enginers
-album_3F0B16B5_123D_AC36_417D_55A0A2756E22_0.label = Grane Mill, Stott Engine: 1930
-album_3F0B16B5_123D_AC36_417D_55A0A2756E22_1.label = Grane Mill: Stott Engine, 1974
-album_3F0B16B5_123D_AC36_417D_55A0A2756E22_2.label = Grane Mill: Stott Engine Commissioning
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74.label = Intro
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_1.label = Grane Mill, 2020
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_10.label = Grane Mill: Weavers, c 1920
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_11.label = Grane Mill, Stott Engine., c 1929
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_12.label = Grane Mill: Stott Engine,  2020
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_13.label = Grane Mill: Lancashire boiler arrival, 1911
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_2.label = Grane Mill: Chimney, 2020
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_3.label = Grane Mill, 2020
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_4.label = Grane Mill in the 30's
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_5.label = Grane Mill: Loom undergoing restoration
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_6.label = Grane Mill, Directors, 1928
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_7.label = Drawers-in: Grane Mill in the 20's
-album_7890F7A3_161E_ECD2_4190_A8B04DA6AE74_9.label = Grane Mill, Harry Swindell, 1970's
 album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4.label = Cuttings
 album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4_0.label = Cuttings: Pinboard
 album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4_1.label = Cuttings: Alice and Hilda retire
@@ -166,10 +121,6 @@ panorama_A4B9BF29_ADDF_CFF2_41D4_D5D41A02678A.label = Alice: Flywheel
 panorama_A74FA71B_ADDE_5FD6_4170_97CD3BB38A0E.label = Engine House
 photo_405D4A3B_12E5_A432_4190_B3A0FBDB948A.label = Newspaper, 1928
 photo_405D4A3B_12E5_A432_4190_B3A0FBDB948A.label = Newspaper, 1928
-photo_56F8BE4D_121D_9C56_4183_01538200D831.label = Grane Mill: Weavers
-photo_56F8BE4D_121D_9C56_4183_01538200D831.label = Grane Mill: Weavers
-photo_79EF11AD_1625_A4D6_41A0_A31A0072BB51.label = Grane Mill: Stott commissioning engineers, 1907
-photo_79EF11AD_1625_A4D6_41A0_A31A0072BB51.label = Grane Mill: Stott commissioning engineers, 1907
 photo_7CA88FAB_15ED_9CD2_41A1_16B6174862EB.label = Detail: Flywheel
 photo_7CA88FAB_15ED_9CD2_41A1_16B6174862EB.label = Detail: Flywheel
 photo_7CAD638E_15ED_64D2_419A_A65152F2FBF7.label = The engine, c.1969
@@ -212,3 +163,5 @@ LinkBehaviour_DFBF7EC7_F22D_BC52_41C9_B1135A3830E1.source = https://apps.apple.c
 PopupWebFrameBehaviour_607CEDEB_5E07_DE9D_41D0_A2B676A618EA.url = //www.youtube.com/embed/rIrDT3iUivs?start=33
 PopupWebFrameBehaviour_62C1343D_5E07_CDF5_41CF_C4DCA392C32D.url = //www.youtube.com/embed/rIrDT3iUivs?start=33
 PopupWebFrameBehaviour_6D37B528_5E04_CF9B_41D2_CCFA0C8C0D54.url = //www.youtube.com/embed/rIrDT3iUivs?start=33
+PopupWebFrameBehaviour_AC37A9A4_E3C9_0BA6_41E9_521576CD861E.url = https://docs.google.com/document/d/e/2PACX-1vRUEPYegw7AslMcD-rS7EZVi3fPG2v1lDZWuLS0mLmGCc1yAZgXX1Z-63PwQAEwOqo_Wl4l8cqfRJ-b/pub?embedded=true
+PopupWebFrameBehaviour_C20F6277_E2C9_18A2_41E6_759E36138218.url = https://docs.google.com/document/d/e/2PACX-1vRUEPYegw7AslMcD-rS7EZVi3fPG2v1lDZWuLS0mLmGCc1yAZgXX1Z-63PwQAEwOqo_Wl4l8cqfRJ-b/pub?embedded=true

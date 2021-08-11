@@ -106,18 +106,18 @@ panorama_A4B7C70F_ADDF_DFCE_41D7_6C123AA2B386.label = Alice and Hilda
 panorama_A4B82C29_ADDE_51F2_41D6_D025F05E4DE8.label = Hilda: High pressure piston
 panorama_A4B84DF2_ADDE_5256_41DB_BB66E002FB5A.label = Flywheel: Starting motor
 panorama_A4B86200_ADDE_51B2_41D2_7BA72A855AC7.label = Hilda: Connecting rod
-panorama_A4B89035_ADDE_D1D2_41CD_FB9236D8409B.label = Main steam control
-panorama_A4B89101_ADDE_73B2_41CD_19EA7F225641.label = Condenser
+panorama_A4B89035_ADDE_D1D2_41CD_FB9236D8409B.label = Steam Control
+panorama_A4B89101_ADDE_73B2_41CD_19EA7F225641.label = Underneath
 panorama_A4B89641_ADDE_B1B2_41D8_4F280ACC437B.label = Hilda
-panorama_A4B8B412_ADDE_F1D6_41D3_1EA12AFAF76B.label = Flywheel and governor: detail
+panorama_A4B8B412_ADDE_F1D6_41D3_1EA12AFAF76B.label = Governor
 panorama_A4B8CA1A_ADDE_D1D6_41B9_CE42D1E3B1EC.label = Flywheel and governor
 panorama_A4B95B4E_ADDF_F64E_41DB_C73ECD5C1547.label = Alice: Low pressure piston
 panorama_A4B98125_ADDF_F3F2_41B4_B4DC8BF63512.label = Alice
 panorama_A4B98543_ADDF_D3B6_41C0_5C4C52E34B04.label = Alice: Connecting rod
 panorama_A4B98921_ADDF_B3F2_41D5_4A28BCA469EF.label = Alice: Companionway
-panorama_A4B9B349_ADDE_57B2_41BD_9320FDED84F5.label = Alternating Generator, Main loom wheel
-panorama_A4B9B81C_ADDE_71D2_41D2_982153C5C71B.label = Entrance: Economiser
-panorama_A4B9BF29_ADDF_CFF2_41D4_D5D41A02678A.label = Alice: Flywheel
+panorama_A4B9B349_ADDE_57B2_41BD_9320FDED84F5.label = Alternating Generator
+panorama_A4B9B81C_ADDE_71D2_41D2_982153C5C71B.label = Economiser
+panorama_A4B9BF29_ADDF_CFF2_41D4_D5D41A02678A.label = Flywheel
 panorama_A74FA71B_ADDE_5FD6_4170_97CD3BB38A0E.label = Engine House
 photo_405D4A3B_12E5_A432_4190_B3A0FBDB948A.label = Newspaper, 1928
 photo_405D4A3B_12E5_A432_4190_B3A0FBDB948A.label = Newspaper, 1928
@@ -145,14 +145,6 @@ photo_E3945812_F22B_A3F2_41DC_FB297CCC2DC1.label = Grane Mill: Lancashire boiler
 photo_E39479FE_F22B_A432_41E8_4A773ACBBE1E.label = Yates and Thom: Brochure
 photo_E39479FE_F22B_A432_41E8_4A773ACBBE1E.label = Yates and Thom: Brochure
 
-## Popup
-
-### Body
-htmlText_1CF8AA6E_5605_4597_41C9_9F917030B987.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">S.S.Stott Engineers are the company who built this engine. Their foundry was just across the road from here.</SPAN></DIV></BODY></HTML></div>
-
-### Title
-window_1A805895_5605_C6B5_41D6_7001AAC0000A.title = Did you know..?
-
 ## Action
 
 ### URL
@@ -160,6 +152,8 @@ LinkBehaviour_C45E3F1B_D260_38E6_41D6_EA5CC84CF122.source = https://heritagetrus
 LinkBehaviour_CAD96CF0_D260_7922_41CD_5D06AA834480.source = https://www.rescuestation.org/
 LinkBehaviour_CF0EA55C_D2E0_2B62_41E2_91923C054638.source = https://play.google.com/store/apps/details?id=com.google.android.youtube#
 LinkBehaviour_DFBF7EC7_F22D_BC52_41C9_B1135A3830E1.source = https://apps.apple.com/gb/app/youtube-watch-listen-stream/id544007664#
+PopupWebFrameBehaviour_1C519B09_3715_F99F_41B8_E574EE4A9279.url = https://docs.google.com/document/d/e/2PACX-1vSPuzV1j3hdGxG8tGf6oVu22rilFcNzuc7tPMsKmVv7c39Rxq_VARsMCYfkZj-_aojfUao9c95a3WME/pub?embedded=true
+PopupWebFrameBehaviour_253C1323_351C_E993_41C6_8F04BDE341B8.url = https://docs.google.com/document/d/e/2PACX-1vR6rMqr-NfOvcAS5-vhWKha1ymtm9Nzq_On7BVlRjpFm_nCPwTGLVEorySO2rSzjYIrVOfNSMNbnnid/pub?embedded=true
 PopupWebFrameBehaviour_607CEDEB_5E07_DE9D_41D0_A2B676A618EA.url = //www.youtube.com/embed/rIrDT3iUivs?start=33
 PopupWebFrameBehaviour_62C1343D_5E07_CDF5_41CF_C4DCA392C32D.url = //www.youtube.com/embed/rIrDT3iUivs?start=33
 PopupWebFrameBehaviour_6D37B528_5E04_CF9B_41D2_CCFA0C8C0D54.url = //www.youtube.com/embed/rIrDT3iUivs?start=33
@@ -171,4 +165,3 @@ PopupWebFrameBehaviour_F476F837_E6C7_E0D1_41E6_4EC1EA841DA3.url = https://docs.g
 PopupWebFrameBehaviour_F4D47539_E6CF_E0D1_41DE_F477154B6A19.url = https://docs.google.com/document/d/e/2PACX-1vSiE9DKGEHo1FLXqDsoq3r2FSizxY-0VM-ep-uDm77v4u18kjBPZmFQmXT6SBrIvGfyZrGmiU9lUNBa/pub?embedded=true
 PopupWebFrameBehaviour_F76F5E00_E6CD_60AF_41AF_8F866B8F61F0.url = https://docs.google.com/document/d/e/2PACX-1vS2HHndOEQfX7uTNNjovisBxiV0O9E67pc16lorDHjIoOSpcwnm6gUss-9OlF329OQj2CjDShWlV3RR/pub?embedded=true
 PopupWebFrameBehaviour_F7AEE085_E6C5_21B1_41D4_3D6D0611A192.url = https://docs.google.com/document/d/e/2PACX-1vSv4wAIrQlTVHuEBG-8r9W0ApFJ_1ZswzXppaCHqMVxmhvGNi1Hkd7LD7cie2QF4XmzQ6DKB9uduDYj/pub?embedded=true
-PopupWebFrameBehaviour_F7E813E0_E6C5_276F_41CD_FAB06D39A70A.url = https://docs.google.com/document/d/e/2PACX-1vSPuzV1j3hdGxG8tGf6oVu22rilFcNzuc7tPMsKmVv7c39Rxq_VARsMCYfkZj-_aojfUao9c95a3WME/pub?embedded=true
